@@ -149,11 +149,11 @@ The real-time gesture recognition system consists of:
 
 - **Precision, Recall, F1-score**:
 
-  ![my_plot](https://github.com/user-attachments/assets/86b9300b-de29-491f-8103-baf9cb8b2105)
+  ![my_plot](Real_Time_Gensture_Recognization/my_plot1.png)
 
 - **Confusion Matrix**:
   
-  ![confusion_matrix](https://github.com/user-attachments/assets/66eb54da-74aa-42cd-84d5-48b32d3c0766)
+  ![confusion_matrix](Real_Time_Gensture_Recognization/confusion_matrix1.png)
 
 - **Tranning and Validation Accuracy**:
   
