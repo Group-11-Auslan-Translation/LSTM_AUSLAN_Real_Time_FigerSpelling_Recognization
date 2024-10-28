@@ -168,7 +168,7 @@ Achieved a test accuracy of 98%. The model performs robustly in real-time, accur
    - To collect your own data, use the data_collection.py script.
 
 2. Train and Real Time Detection:
-   best_baseline_model.ipynb
+   auslan_sign_fina_model.ipynb
 
 3. View Recorded Video (Optional): The real-time detection script saves a video named output.avi. You can view this video to see the recorded session.
 
