@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# real-time-gesture-recognizaion
-=======
 # AUSLAN Fingerspelling Real-Time Gesture Recognition
 
 Welcome to the AUSLAN Fingerspelling Real-Time Gesture Recognition project! This repository contains all the code and resources for building a real-time gesture recognition system for AUSLAN (Australian Sign Language) fingerspelling using machine learning and computer vision techniques.
@@ -143,7 +140,7 @@ The real-time gesture recognition system consists of:
 
 - ##### Real-Time Demonstration
 
-[![Real-Time Gesture Recognition Demo](https://img.youtube.com/vi/VohD4N-dNJU/0.jpg)](https://www.youtube.com/watch?v=VohD4N-dNJU)
+  [![Real-Time Gesture Recognition Demo](https://img.youtube.com/vi/VohD4N-dNJU/0.jpg)](https://www.youtube.com/watch?v=VohD4N-dNJU)
   
 - **Classification Report**:
 
@@ -227,9 +224,3 @@ Contact
 - Email: khobragade.vaibhav8@gmail.com
 - GitHub: Vaibhav Khobragade
 ```   
-
-
-
-   
-   
->>>>>>> 0e46ce8d36777a58f43424fc1b2b150e1ac4eb45
