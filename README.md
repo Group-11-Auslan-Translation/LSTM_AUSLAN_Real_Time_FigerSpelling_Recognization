@@ -137,6 +137,11 @@ The real-time gesture recognition system consists of:
 ## Results
 - **Test Accuracy: Achieved a test accuracy of 99%.**
 - **Real-Time Performance**: The model performs robustly in real-time, accurately recognizing gestures despite variations in distance and hand size.
+
+- ##### Real-Time Demonstration
+
+[![Real-Time Gesture Recognition Demo](https://img.youtube.com/vi/VohD4N-dNJU/0.jpg)](https://www.youtube.com/watch?v=VohD4N-dNJU)
+  
 - **Classification Report**:
 
   ![accuracy_with_each_letter](https://github.com/user-attachments/assets/c5ac838b-b707-41fb-827a-86f12f45d202)
