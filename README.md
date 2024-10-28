@@ -28,6 +28,8 @@ Welcome to the AUSLAN Fingerspelling Real-Time Gesture Recognition project! This
 ## Project Overview
 The goal of this project is to develop a robust real-time gesture recognition system capable of recognizing AUSLAN fingerspelling gestures (letters A-Z). The system leverages machine learning techniques and computer vision to interpret hand gestures captured through a webcam and translate them into corresponding letters.
 
+![image](https://github.com/user-attachments/assets/3f4cc061-ebb5-42b8-ba8e-9791968bdd1b)
+
 ### Key Features:
 - Real-time gesture recognition using a webcam.
 - Robust to variations in distance from the camera and hand sizes.
@@ -133,7 +135,25 @@ The real-time gesture recognition system consists of:
 - **Recording**: Utilizes OpenCV's VideoWriter to record the session.
 
 ## Results
-Achieved a test accuracy of 98%. The model performs robustly in real-time, accurately recognizing gestures despite variations in distance and hand size.
+- **Test Accuracy: Achieved a test accuracy of 99%.**
+- **Real-Time Performance**: The model performs robustly in real-time, accurately recognizing gestures despite variations in distance and hand size.
+- **Classification Report**:
+
+  ![accuracy_with_each_letter](https://github.com/user-attachments/assets/c5ac838b-b707-41fb-827a-86f12f45d202)
+  ![accuracy_with_each_letter1](https://github.com/user-attachments/assets/7a61d074-6030-4015-8c8e-29f8f5b04d25)
+
+- **Precision, Recall, F1-score**:
+
+  ![my_plot](https://github.com/user-attachments/assets/86b9300b-de29-491f-8103-baf9cb8b2105)
+
+- **Confusion Matrix**:
+  
+  ![confusion_matrix](https://github.com/user-attachments/assets/66eb54da-74aa-42cd-84d5-48b32d3c0766)
+
+- **Tranning and Validation Accuracy**:
+  
+  ![traning_validation_accuracy](https://github.com/user-attachments/assets/8def61d4-8c54-4a10-ac51-ccd9ccc99bd2)
+ 
 
 ## Installation and Usage
 ### Prerequisites
@@ -168,7 +188,7 @@ Achieved a test accuracy of 98%. The model performs robustly in real-time, accur
    - To collect your own data, use the data_collection.py script.
 
 2. Train and Real Time Detection:
-   auslan_sign_fina_model.ipynb
+   auslan_sign_final_model.ipynb
 
 3. View Recorded Video (Optional): The real-time detection script saves a video named output.avi. You can view this video to see the recorded session.
 
