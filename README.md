@@ -140,7 +140,8 @@ The real-time gesture recognition system consists of:
 
 - ##### Real-Time Demonstration
 
-  [![Real-Time Gesture Recognition Demo](https://img.youtube.com/vi/VohD4N-dNJU/0.jpg)](https://youtu.be/VohD4N-dNJU)
+  [![Real-Time Gesture Recognition Demo](https://img.youtube.com/vi/YwLv4xW-3Vw/0.jpg)](https://youtu.be/YwLv4xW-3Vw)
+
 
   
 - **Classification Report**:
